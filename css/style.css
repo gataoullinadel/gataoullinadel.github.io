@@ -884,6 +884,13 @@ position:relative;
 #plan .toggle-container .switch-toggles .company.active {
   color: #26272d;
 }
+#plan hr {
+    width: 150px;
+    height: 4px;
+    margin: 20px auto;
+    background-color: #267df4;
+    align-content: center;
+}
 
 #plan .toggle-container .switch-toggles:after {
   position: absolute;
