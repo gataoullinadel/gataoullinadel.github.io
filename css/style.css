@@ -1336,6 +1336,10 @@ Responsive Styles
   input[type="email"] {
     padding: 16px 26px;
   }
+  h1
+  {
+    font-size: 20px;
+  }
   /*** Header ***/
   #header {
     padding: 160px 0 460px;
